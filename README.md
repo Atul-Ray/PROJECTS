@@ -7,3 +7,5 @@
 ## ---Accordion in React --- https://atul-ray.github.io/react_accordion/
 
 ## ---Random color generator --- https://atul-ray.github.io/colorgenerator/
+
+## ---Star Rating --- https://atul-ray.github.io/star-Rating/
